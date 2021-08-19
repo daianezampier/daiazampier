@@ -1,4 +1,8 @@
-## Daiane de Oliveira
+## Olá! Eu sou a Daiane de Oliveira ✨
+
+° 👩‍💻 Trabalhando como suporte técnico
+
+° 👩‍🎓 Estudante de front-end
 
 
  <div>
